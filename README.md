@@ -45,12 +45,12 @@ This project is for educational purposes only.
 
 ## 📸 Project Screenshots
 
-![Home Page](images/homepage.png)
+![Home Page](images/homepage.jpg)
 *Home page of the E-Learning Platform*
 
-![Teacher Section](images/teacher-section.png)
+![Teacher Section](images/teacher-section.jpg)
 *Teacher dashboard for course management*
 
-![Quiz Interface](images/quiz-interface.png)
+![Quiz Interface](images/quiz-interface.jpg)
 *Students taking quizzes on the platform*
 
