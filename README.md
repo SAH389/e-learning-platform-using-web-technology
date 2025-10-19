@@ -42,3 +42,15 @@ GitHub Pages cannot run PHP. Use a PHP hosting service like:
 
 ## 📄 License
 This project is for educational purposes only.
+
+## 📸 Project Screenshots
+
+![Home Page](images/homepage.png)
+*Home page of the E-Learning Platform*
+
+![Teacher Section](images/teacher-section.png)
+*Teacher dashboard for course management*
+
+![Quiz Interface](images/quiz-interface.png)
+*Students taking quizzes on the platform*
+
